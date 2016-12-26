@@ -11,7 +11,7 @@
 
 * 下载
     ```
-       git clone https://github.com/qzx1330400473/-.git
+       git clone https://github.com/qzx1330400473/future-home.git
     ```
    
 * 进入目录
@@ -26,7 +26,7 @@
     
 * 启动项目
     ```
-        node app.js
+        node server.js
     ```
     
 * 访问
