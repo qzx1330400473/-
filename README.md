@@ -1,4 +1,4 @@
-## 粤淘网
+## 未来之家
     这是一个关于租房的App项目，项目有以下几个模块
         1.登录注册
         2.发布
@@ -11,7 +11,7 @@
 
 * 下载
     ```
-       git clone https://github.com/qzx1330400473/-.git
+       git clone https://github.com/qzx1330400473/future-home.git
     ```
    
 * 进入目录
@@ -26,7 +26,7 @@
     
 * 启动项目
     ```
-        node app.js
+        node server.js
     ```
     
 * 访问
