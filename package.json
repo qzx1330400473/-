@@ -2,18 +2,19 @@
   "name": "未来之家",
   "version": "1.0.0",
   "description": "",
-  "main": "app.js",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/qzx1330400473/-.git"
+    "url": "https://github.com/qzx1330400473/future-home.git"
   },
-  "author": "",
+  "author": "qzx",
   "license": "ISC",
   "dependencies": {
     "express": "^4.14.0",
+    "http-proxy-middleware": "^0.17.3",
     "nodegrass": "0.0.3",
     "sha1": "^1.1.1"
   },
@@ -24,7 +25,6 @@
     "gulp-nodemon": "^2.2.1",
     "gulp-stylus": "^2.6.0",
     "gulp-uglify": "^2.0.0",
-    "gulp-webserver": "^0.9.1",
-    "http-proxy-middleware": "^0.17.3"
+    "gulp-webserver": "^0.9.1"
   }
 }
