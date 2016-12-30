@@ -72,13 +72,14 @@ body {
   border-bottom: 1px solid #d6d7dc;
 }
 .info_cells .info-cell .info-name {
-  flex: 3;
+  flex: 4;
   font-size: 1em;
   color: #646464;
 }
 .info_cells .info-cell .info-content {
-  flex: 4;
+  flex: 3;
   text-indent: 10px;
+  font-size: 12px;
 }
 .info_cells .image-cell {
   display: flex;
@@ -89,7 +90,7 @@ body {
   padding-top: 22px;
 }
 .info_cells .image-cell .image-block .box-img {
-  width: 100px;
+  width: 90px;
   height: 64px;
   background: #878787;
   border-radius: 5px;

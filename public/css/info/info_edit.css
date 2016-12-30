@@ -49,7 +49,7 @@ body {
   background-size: 50%;
 }
 .info_cells .info-cell .info-name {
-  flex: 4;
+  flex: 5;
   font-size: 1em;
   color: #646464;
   font-size: 14px;
@@ -84,7 +84,7 @@ body {
   padding-top: 22px;
 }
 .info_cells .image-cell .image-block .box-img {
-  width: 100px;
+  width: 90px;
   height: 64px;
   background: #878787;
   border-radius: 5px;
